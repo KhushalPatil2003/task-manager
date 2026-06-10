@@ -13,9 +13,13 @@ Navigate to the backend folder:
 Create a .env file inside the basicNode directory:
 
 PORT=3000
+
 NODE_ENV=development
+
 MONGODB_URI=YOUR_MONGODB_URI
+
 JWT_SECRET=your_random_jwt_secret
+
 JWT_EXPIRES_IN=1d
 
 
