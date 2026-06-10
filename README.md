@@ -1,6 +1,6 @@
 Task Manager Application - Setup Guide
 
-Live Application Link : task-manager-two-rho-84.vercel.app
+Live Application Link : https://task-manager-two-rho-84.vercel.app
 
 
 Prerequisites
