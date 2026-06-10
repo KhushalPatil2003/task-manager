@@ -1,8 +1,9 @@
 Task Manager Application - Setup Guide
 
 Prerequisites
-Node.js (v18 or later)
-MongoDB Community Server
+
+Node.js (v18 or later), 
+MongoDB Community Server, 
 Git
 
 cd task-manager
@@ -24,12 +25,13 @@ JWT_EXPIRES_IN=1d
 
 
 cd basicNode 
+
 npm install
 
-Start the backend:
+Start the backend : 
 node app.js
 
-The API will run on:
+The API will run on : 
 http://localhost:3000
 
 
@@ -38,39 +40,69 @@ Frontend Setup
 Navigate to the frontend folder:
 
 cd frontend
+
 npm install
+
 npm run dev
 
-The frontend will run on:
+The frontend will run on : 
 http://localhost:5173
 
-Features
+Features : 
+
 User Registration
+
 User Login with JWT Authentication
+
 Protected Routes
+
 Task Creation
+
 Task Update
+
 Task Completion Tracking
+
 Task Deletion
+
 MongoDB Persistence
+
 User-specific Task Ownership
+
 Task Filtering
+
 Task Sorting
+
 Pagination Support
+
 Tech Stack
 
-Frontend:
+
+Frontend : 
+
 React
+
 Vite
+
 Axios
+
 React Router DOM
 
-Backend:
+
+Backend : 
+
 Node.js
+
 Express.js
+
 MongoDB
+
 Mongoose
+
 JWT
+
 bcryptjs
+
 CORS
+
 dotenv
+
