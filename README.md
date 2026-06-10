@@ -105,4 +105,5 @@ bcryptjs
 CORS
 
 dotenv
+<img width="1920" height="1011" alt="{697B9810-5E5A-46FA-99C6-9E7457C56BC7}" src="https://github.com/user-attachments/assets/5bf2fa71-c9bd-4de5-8bcb-a0f319208b40" />
 
